@@ -3,8 +3,7 @@
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/AnonymousX1025"><img alt="Website" src="https://img.shields.io/badge/𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦-blue"></a>
- 
+  <a href="https://t.me/xN_o_R"><img alt="Website" src="https://img.shields.io/badge/⇝َِِ͜͡𝙉َِِ𝙣َ.َ𝙊َ𝙪َ.َِ𝙍َ𝙧َِ ⏎ ™( ˛⁽ألحٍَـحأ꯭گم‌ ₎˼، ), •-blue"></a>
 [![Stars](https://img.shields.io/github/stars/AnonymousX1025/StringGenBot?style=social)](https://github.com/AnonymousX1025/StringGenBot/stargazers)
   [![Forks](https://img.shields.io/github/forks/AnonymousX1025/StringGenBot?style=social)](https://github.com/AnonymousX1025/StringGenBot/fork)
 
@@ -29,7 +28,7 @@
 
 
 
-### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
+### 🙄 تم استخراج الجلسه بنجاح
   
   [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringFatherBot)
 
@@ -46,7 +45,7 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousX1025)
+- » [⇝َِِ͜͡𝙉َِِ𝙣َ.َ𝙊َ𝙪َ.َِ𝙍َ𝙧َِ ⏎ ™( ˛⁽ألحٍَـحأ꯭گم‌ ₎˼، ), •](https://github.com/AnonymousX1025)
 - » [Shivang](https://github.com/ShivangKakkar)
 - » [Dan Tès](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 - » [Lonami](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
