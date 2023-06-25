@@ -28,7 +28,7 @@
 
 
 
-### 🙄 تم استخراج الجلسه بنجاح
+### 🙄 تم استخراج الجلسه ف المحفوظات
   
   [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringFatherBot)
 
@@ -38,10 +38,10 @@ Atleast Give A Star and Fork The Repo 🖤
 
 ## 🗒️ ɴᴇᴄᴇssᴀʀʏ ᴠᴀʀs
 
-☞ `API_ID` - Get your API_ID from [my.telegram.org](https://my.telegram.org/apps)<br>
-☞ `API_HASH` - Get your API_HASH from [my.telegram.org](https://my.telegram.org/apps)<br>
-☞ `BOT_TOKEN` - Get your BOT_TOKEN from [@BotFather](https://t.me/BotFather)<br>
-☞ `MONGO_DB_URI` - Get MONGO_DB_URI from [MongoDB.com](https://cloud.mongodb.com)<br>
+☞ `22613172` - Get your API_ID from [my.telegram.org](https://my.telegram.org/apps)<br>
+☞ `e54a2e04cf82a428b6ee70cbe1d63b74` - Get your API_HASH from [my.telegram.org](https://my.telegram.org/apps)<br>
+☞ `6150971809:AAGIVkYj8fJ6CtRBjbkre7rpl80LuqNP9R4` - Get your BOT_TOKEN from [@BotFather](https://t.me/BotFather)<br>
+☞ `64677694d2e0ad6e8f4a342a` - Get MONGO_DB_URI from [MongoDB.com](https://cloud.mongodb.com)<br>
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
